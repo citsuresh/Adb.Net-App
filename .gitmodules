@@ -1,0 +1,3 @@
+[submodule "FluentAdb.Net"]
+	path = FluentAdb.Net
+	url = https://github.com/citsuresh/FluentAdb.Net
