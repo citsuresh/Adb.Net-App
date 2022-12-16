@@ -3,8 +3,8 @@
 ################################################################################
 
 /.vs
-/Adb.Net-App/obj
-/Adb.Net-App/bin
+/AdbdotNetApp/obj
+/AdbdotNetApp/bin
 /packages
 
 # NuGet Packages Directory
